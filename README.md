@@ -7,5 +7,5 @@ You can find the current Repositories here:
 - [API Docs](https://github.com/ember-learn/ember-api-docs) 
 - [Deprecations](https://github.com/ember-learn/deprecation-app) 
 - [The Guides](https://github.com/ember-learn/guides-source)
-- Builds and Status board are part of the main website above
+- Builds and Status Board are part of the main website above
 
